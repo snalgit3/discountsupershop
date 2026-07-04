@@ -24,10 +24,10 @@ cp .env.example .env.production
 Edit `.env.production`:
 
 ```env
-NEXT_PUBLIC_DERIV_APP_ID=your_app_id_here
-NEXT_PUBLIC_DERIV_REDIRECT_URI=https://your-registered-redirect-uri.com
-NEXT_PUBLIC_DERIV_APP_NAME=your_app_name_here
-NEXT_PUBLIC_DERIV_REFERRAL_LINK=your_referral_link_here
+NEXT_PUBLIC_DERIV_APP_ID=33JJJBm9CxXZcDo6mPGvr
+NEXT_PUBLIC_DERIV_REDIRECT_URI=https://discount-super-shop.netlify.app
+NEXT_PUBLIC_DERIV_APP_NAME=DSS Trading App 
+NEXT_PUBLIC_DERIV_REFERRAL_LINK=https://partner-tracking.deriv.com/click?a=36771&o=1&c=3&link_id=1
 NEXT_PUBLIC_DERIV_OAUTH_SCOPES=trade,account_manage
 NEXT_PUBLIC_DERIV_ENV=production
 ```
